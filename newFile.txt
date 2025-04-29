@@ -1,2 +1,4 @@
 username 
 email
+Try as much as possible to use all the tags and attributes we learnt in class on every page
+Make sure to use a separate folder in your project to store other pages and images, then link them from your index page.
