@@ -3,4 +3,8 @@ git status
 git add 
 git commit 
 git log 
-git bash powershell - g
+git checkout -b <branchname>
+git branch <branchname>
+git checkout <branchname>
+main - master 
+merge conflict
