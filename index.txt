@@ -4,6 +4,7 @@ git add
 git commit 
 git log 
 git checkout -b <branchname>
+this is a change inbetween lines in a file
 git branch <branchname>
 git checkout <branchname>
 main - master 
