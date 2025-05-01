@@ -3,4 +3,4 @@ git status
 git add 
 git commit 
 git log 
-git bash powershell - g add this on main
+git bash powershell - g this is jide branch
