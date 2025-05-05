@@ -1,7 +1,7 @@
 git init
 git status
-git add 
-git commit 
+git add .
+git commit -m ""
 git log 
 git checkout -b <branchname>
 this is a change inbetween lines in a file
@@ -9,6 +9,14 @@ git branch <branchname>
 git checkout <branchname>
 main - master 
 merge conflict updated from the dev branch
+pull push 
+git pull
+git push
+
+main 
+dev
+UAT
+Staging 
 
 
 This is a new line
